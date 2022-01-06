@@ -1,2 +1,24 @@
-# DESAFIO-EMR
-O sistema deverá ser desenvolvido utilizando Ruby on rails, react.js e postgreSQL. ● Você̂ deve criar um CRUD que permita cadastrar as seguintes informações:  Dados do funcionário (nome, sobrenome, cargo, data de nascimento, data de  admissão e salário) Cargo (descrição do cargo e atividades
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
