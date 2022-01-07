@@ -1,0 +1,14 @@
+<p style="color: green"><%= notice %></p>
+
+<h1>Position activities</h1>
+
+<div id="position_activities">
+  <% @position_activities.each do |position_activity| %>
+    <%= render position_activity %>
+    <p>
+      <%= link_to "Show this position activitie", position_activity %>
+    </p>
+  <% end %>
+</div>
+
+<%= link_to "New position activitie", new_position_activity_path %>

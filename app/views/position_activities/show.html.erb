@@ -1,0 +1,10 @@
+<p style="color: green"><%= notice %></p>
+
+<%= render @position_activity %>
+
+<div>
+  <%= link_to "Edit this position activitie", edit_position_activity_path(@position_activity) %> |
+  <%= link_to "Back to position activities", position_activities_path %>
+
+  <%= button_to "Destroy this position activitie", @position_activity, method: :delete %>
+</div>

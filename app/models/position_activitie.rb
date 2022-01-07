@@ -1,0 +1,2 @@
+class PositionActivitie < ApplicationRecord
+end
